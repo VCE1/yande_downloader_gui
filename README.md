@@ -38,9 +38,9 @@ pip install -r requirements.txt
 
 ### 使用方法
 
-运行 [main.py](https://github.com/VCE1/yande_downloader_gui/blob/master/main.py)文件：
+运行 [gui.py](https://github.com/VCE1/yande_downloader_gui/blob/master/gui.py)文件：
 ```python
-python main.py
+python gui.py
 ```
 
 
